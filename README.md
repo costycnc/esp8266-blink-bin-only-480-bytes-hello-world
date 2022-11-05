@@ -8,3 +8,8 @@ Requirements :
 2.toolchain https://dl.espressif.com/dl/xtensa-lx106-elf-gcc8_4_0-esp-2020r3-win32.zip 
 
   here more details(https://docs.espressif.com/projects/esp8266-rtos-sdk/en/latest/get-started/windows-setup.html)
+  
+  
+  I use batch file script but you can use powershell ,msys32 , or any program compatible to run script ... or make all manually!
+  
+  
