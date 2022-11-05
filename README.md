@@ -50,6 +50,18 @@ Blink with a bin with only 480 bytes
                                 
             change 400000 with another value ... is time blinkink on and off ... and save file
             
+            Keep in mind to download toolchain toolchain https://dl.espressif.com/dl/xtensa-lx106-elf-gcc8_4_0-esp-2020r3-win32.zip  
+            and put in xtensa-lx106-elf directory 
+            
+            Now you can run compile.bat ... 
+            After compile ... open main folder and copy blink.elf 
+            go in esptool folder and delete old blink.elf and paste new blink.elf
+
+            Now repeat same as first test! Leave a comment if working! Enjoy!!!
+            
+            Keep in mind to visit www.costycnc.it where present a low cost and easy to use foam cutter macchine.
+            Also can search on google,facebook,youtube ... the keyword costycnc and will find more projects and informations about me!
+            
             
          
          
