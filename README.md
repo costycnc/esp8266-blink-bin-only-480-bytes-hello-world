@@ -1,6 +1,8 @@
 # esp8266-blink-bin-only-480-bytes-hello-world
 Blink with a bin with only 480 bytes
 
+Thanks to AdityaNG from where im inspired https://github.com/AdityaNG/esp32-assembly
+
          Requirements :
 
                1.esptool.exe https://github.com/espressif/esptool/releases or esptool.py but need to install python 
