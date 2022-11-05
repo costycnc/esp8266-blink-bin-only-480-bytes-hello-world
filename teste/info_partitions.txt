@@ -1,0 +1,8 @@
+esptool.py v2.4.0
+Image version: 1
+Entry point: 4010013c
+3 segments
+Segment 1: len 0x00128 load 0x40100000 file_offs 0x00000008
+Segment 2: len 0x00014 load 0x40100128 file_offs 0x00000138
+Segment 3: len 0x00078 load 0x4010013c file_offs 0x00000154
+Checksum: 35 (valid)
